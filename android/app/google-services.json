@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "882191572726",
+    "firebase_url": "https://ujikom-e3a9c-default-rtdb.firebaseio.com",
+    "project_id": "ujikom-e3a9c",
+    "storage_bucket": "ujikom-e3a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882191572726:android:87354a2e649a051e0e16d7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVhZZ9MdnIulez7gZKt3MpHU5yOlsBEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882191572726:android:9d51ba05305bf8250e16d7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_uilogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVhZZ9MdnIulez7gZKt3MpHU5yOlsBEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882191572726:android:41d04086817c50560e16d7",
+        "android_client_info": {
+          "package_name": "com.example.ujikom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVhZZ9MdnIulez7gZKt3MpHU5yOlsBEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
